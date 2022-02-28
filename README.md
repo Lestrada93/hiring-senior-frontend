@@ -11,7 +11,7 @@ We would like you to create an invoicing app. The features it should include:
 - [ ] Add line items to the invoices. Line items must include description, amount and currency.
 - [ ] Invoice must show total amount in USD. Connect with the exchange rate API of your preference.
 
-We handle a lot of currency conversions and money transactions on a day-to-day basis, so we will pay close attention to how you handle this. Remember the problem that arises when dealing with floating-point arithmetic.
+We handle a lot of currency conversions and money transactions on a day-to-day basis, so we will pay close attention to how you handle this.
 No need to code anything for the backend, you can use any client-side storage to store the info. This is not a design role, so there are no specific design requirements, feel free to own it. Although this is not a design position, it is very important that you can translate design files (PSD, Figma, etc.) into code (HTML/CSS). 
 
 #### Extra credit features
@@ -26,6 +26,7 @@ Optional, only if you have some extra time.
 Use the following tools to accomplish this task:
 - Vue / React.
 - Use a state management library.
+- Remember the problem that arises when dealing with floating-point arithmetic.
 - It’s okay to use create-react-app or similar tools.
 - It’s okay to use another framework like Nuxt / Next.
 - It’s okay to use third party libraries, but please comment on why you choose it.
