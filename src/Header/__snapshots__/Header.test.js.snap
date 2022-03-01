@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component Snapshot 1`] = `
+<header>
+  <nav
+    className="navbar navbar-expand-lg navbar-light bg-light"
+  >
+    <div
+      className="container-fluid"
+    >
+      <a
+        className="navbar-brand"
+        href="/"
+        onClick={[Function]}
+      >
+        VIA
+      </a>
+      <button
+        aria-controls="navbarNavAltMarkup"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        className="navbar-toggler"
+        data-bs-target="#navbarNavAltMarkup"
+        data-bs-toggle="collapse"
+        onClick={[Function]}
+        type="button"
+      >
+        <span
+          className="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        className="collapse navbar-collapse"
+        id="navbarNavAltMarkup"
+      >
+        <div
+          className="navbar-nav"
+        >
+          <a
+            className="nav-link"
+            exact={true}
+            href="/"
+            onClick={[Function]}
+          >
+            LIST_OF_INVOICES
+          </a>
+          <a
+            className="nav-link"
+            href="/create-a-new-invoice"
+            onClick={[Function]}
+          >
+            CREATE_A_NEW_INVOICE
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+`;

@@ -1,13 +1,17 @@
 {
-  "HEIGHT": "Height",
-  "EXPERIENCE": "Experience",
-  "WEIGHT": "Weight",
-  "TYPE": "Type",
-  "STATISTICS": "Statistics",
-  "SKILL": "Skill",
-  "LEVEL": "Level",
-  "NEXT": "Next",
-  "PREV": "Prev",
-  "NOT_FOUND": "No results found",
-  "SEARCH_BY_NAME": "Search by name..."
+  "VIA": "Via",
+  "LIST_OF_INVOICES": "List of invoices",
+  "CREATE_A_NEW_INVOICE": "Create a new invoice",
+  "TOTAL_IN_USD": "Total in USD",
+  "ID": "Id",
+  "ADD_A_NEW_ENTITY": "Add a new entity",
+  "DESCRIPTION": "Description",
+  "AMOUNT": "Amount",
+  "CURRENCY": "Currency",
+  "SELECT_A_CURRENCY": "Select a currency",
+  "REMOVE": "Remove",
+  "DETAIL_OF_INVOICE": "Detail of invoice",
+  "INVOICE_ID": "Invoice ID",
+  "DETAILS_NOT_FOUND": "We could not find the details",
+  "GO_BACK_TO_LIST": "Go back to list"
 }

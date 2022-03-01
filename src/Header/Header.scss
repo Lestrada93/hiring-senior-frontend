@@ -1,0 +1,7 @@
+.navbar {
+  margin-bottom: 15px;
+  &--toggle {
+    display: block !important;
+    transition: all 0.5s linear;
+  }
+}

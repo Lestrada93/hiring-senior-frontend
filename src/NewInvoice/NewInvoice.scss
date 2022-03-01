@@ -1,0 +1,7 @@
+.top-invoice {
+  display: flex;
+  justify-content: flex-start;
+  &__title {
+    margin-right: 15px;
+  }
+}
